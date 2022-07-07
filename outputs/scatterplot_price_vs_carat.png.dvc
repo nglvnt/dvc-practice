@@ -1,0 +1,4 @@
+outs:
+- md5: 6572f8b495ca60da2069f53ec6bb72ec
+  size: 116971
+  path: scatterplot_price_vs_carat.png
