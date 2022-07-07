@@ -1,4 +1,0 @@
-[core]
-    remote = local_remote_storage
-['remote "local_remote_storage"']
-    url = ../../dvc-practice-remote
